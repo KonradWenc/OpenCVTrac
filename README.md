@@ -1,2 +1,2 @@
 # OpenCVTrac
-OpenCV Object Tracing by template matching method
+OpenCV Object Tracking by template matching method
